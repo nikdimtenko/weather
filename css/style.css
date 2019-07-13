@@ -1,0 +1,98 @@
+.forms {
+     max-width: 330px;
+     padding: 15px;
+     margin: auto;
+ }
+
+.card {
+    width: 32%;
+    margin-left: 1%;
+}
+
+.temperature {
+    display:inline;
+}
+
+.text-muted {
+    font-size: 20px;
+}
+
+.desc {
+    text-align: center;
+    margin-top: -7%;
+    font-size: 25px;
+}
+
+.img {
+    margin-left: 30%;
+    margin-bottom: 5%;
+}
+
+.city {
+    text-align: center;
+}
+
+.cityInform {
+    width: 25%;
+    padding-bottom: 12px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #D9EDF7;
+    border-radius: 26px;
+}
+
+.warn {
+    width: 15%;
+    color: #843534;
+    font-size: 25px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #F2DEDE;
+    border-radius: 15px;
+}
+
+#search {
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+#button {
+    width: 40%;
+}
+
+#inform {
+    background-color: blue;
+    height: 100px;
+    float: top;
+    width: 50%;
+    margin-bottom: 5px;
+}
+
+table {
+    font-size: 14px;
+    background: white;
+    max-width: 100%;
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+th {
+    font-weight: normal;
+    color: #039;
+    padding: 10px 15px;
+}
+
+td {
+    color: #669;
+    border-top: 1px solid #e8edff;
+    padding: 10px 15px;
+}
+
+tr:nth-child(2n) {
+    background: #e8edff;
+}
+
+
+
+
